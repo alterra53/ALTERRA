@@ -1,0 +1,5 @@
+discord.py==2.3.2
+python-dotenv==1.0.1
+fastapi==0.115.0
+uvicorn==0.30.0
+asynco
